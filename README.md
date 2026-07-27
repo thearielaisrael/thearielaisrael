@@ -284,7 +284,7 @@ It allows me to connect my current education and technical experience with the q
   <tr>
     <td align="center">
       <strong>🌐 Portfolio</strong><br/>
-      <a href="https://arielainstem.com">arielaimstem.com</a><br/>
+      <a href="https://arielainstem.com">arielainstem.com</a><br/>
       <sub>Experience, projects, case studies, and field notes</sub>
     </td>
     <td align="center">
